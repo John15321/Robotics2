@@ -1,0 +1,21 @@
+F Number: F00000    
+VERSION : LR HandlingTool      
+$VERSION: V9.10185     12/11/2019
+DATE:     21-APR-21 01:54 
+DCS Version: V4.2.10
+
+
+--- Signature number (Dec) -------------
+                Current        Latch
+1 Total:        1232418064            0
+  Time:09-FEB-18 11:06              None
+2 Base:        -1672622576            0
+  Time:09-FEB-18 11:06              None
+   Mastering:    336434605
+   Robot:       -427933804
+   Other:       -930978075
+3 Pos./Speed:  -1128030488            0
+  Time:09-FEB-18 11:06              None
+4 I/O connect:   531415184            0
+  Time:09-FEB-18 11:06              None
+

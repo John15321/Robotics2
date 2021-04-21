@@ -1,0 +1,28 @@
+* CamFile_Version 1
+S FileBaseName Basler_GigE_Version_3_0.xml
+S DeviceVendorName Basler
+S DeviceModelName acA1920-48gc
+S DeviceVersion 107264-05
+* Feature             Address    Mask       Value  Min Max 
+U SensorWidth         0x00010008 0xffffffff 1984    0    0
+U SensorHeight        0x00010028 0xffffffff 1264    0    0
+F PhysicalPixelWidth  0x00000000 0x00000000 4.80    0    0
+F PhysicalPixelHeight 0x00000000 0x00000000 4.80    0    0
+U UserSetSelector     0x00060044 0xffffffff    0    0    3
+U UserSetLoad         0x00060004 0x80000000    1    0    1
+F ExposureTimeBase    0x00000000 0x00000000    1    0    0
+U ExposureTimeRaw     0x00040464 0xffffffff 9000  137    1000000
+U AcquisitionMode     0x00040004 0xffffffff    0    0    0
+U AcquisitionStart    0x00040024 0x80000000    1    0    0
+U AcquisitionStop     0x00040044 0x80000000    0    0    0
+U Width               0x00030204 0xffffffff    0    1 1984
+U Height              0x00030224 0xffffffff    0    1 1264
+U OffsetX             0x00030244 0xffffffff    0    0 1983
+U OffsetY             0x00030264 0xffffffff    0    0 1263
+U BinningHorizontal   0x00000000 0xffffffff    1    0    1
+U BinningVertical     0x00000000 0xffffffff    1    0    1
+U IncrementWidth      0x00030210 0xffffffff   32    0    0
+U IncrementHeight     0x00030230 0xffffffff    1    0    0
+U IncrementOffsetX    0x00030250 0xffffffff   32    0    0
+U IncrementOffsetY    0x00030270 0xffffffff    1    0    0
+U PixelFormat         0x00030024 0xffffffff   30    0    0

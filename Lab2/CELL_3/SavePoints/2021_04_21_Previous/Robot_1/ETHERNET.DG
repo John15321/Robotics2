@@ -1,0 +1,117 @@
+F Number: F00000    
+VERSION : LR HandlingTool      
+$VERSION: V9.10185     12/11/2019
+DATE:     21-APR-21 01:55 
+
+ETHERNET CONFIGURATION::
+
+$HOSTNAME   :ROBOT
+TMI_ROUTER  :ROUTER
+TMI_ETHERAD :
+Subnet mask :255.255.255.0
+Host Table [17]:      QUICC0
+Host Table [18]:      QUICC1
+Host Table [19]:      QUICC2
+Host Table [20]:      ROUTER
+Host Table [21]:       PCJOG addr:192.168.0.100
+Host Table [22]:      CAMPRT addr:192.168.1.10
+Host Table [23]:      CAMRTR addr:192.168.1.10
+Server [1]:         FTP state: 3
+Server [2]:         FTP state: 3
+
+ETHERNET STATISTICS:
+-Interrupt count:     0              
+-RX count:            0              
+-RX dequeue:          0              
+-TX start:            0              
+-TX count:            0              
+-TX complete:         0              
+-Busy count :         0              
+-TX error count:      0              
+-RX deliver:          0              
+-RX length violation: 0              
+-RX alignment error:  0              
+-RX short frame:      0              
+-RX crc error:        0              
+-RX overrun:          0              
+-RX collision:        0              
+-TX wait:             0              
+-TX defer:            0              
+-TX late collision:   0              
+-Retransmission limit:0              
+-TX underrun:         0              
+-TX carrier lost:     0              
+-Full Duplex:         0              
+-Speed Mbps:          0              
+-Bucket Misses:       0              
+-link:                DOWN
+-High network traffic:0              
+-watermark:           0              
+-max bds:             0              
+-intr pkt defer:      0              
+-min pps:             0              
+-avg pps:             0              
+-max pps:             0              
+
+ETHERNET STATISTICS:
+-Interrupt count:     0              
+-RX count:            0              
+-RX dequeue:          0              
+-TX start:            0              
+-TX count:            0              
+-TX complete:         0              
+-Busy count :         0              
+-TX error count:      0              
+-RX deliver:          0              
+-RX length violation: 0              
+-RX alignment error:  0              
+-RX short frame:      0              
+-RX crc error:        0              
+-RX overrun:          0              
+-RX collision:        0              
+-TX wait:             0              
+-TX defer:            0              
+-TX late collision:   0              
+-Retransmission limit:0              
+-TX underrun:         0              
+-TX carrier lost:     0              
+-Full Duplex:         0              
+-Speed Mbps:          0              
+-Bucket Misses:       0              
+-link:                DOWN
+-High network traffic:0              
+-watermark:           0              
+-max bds:             0              
+-intr pkt defer:      0              
+-min pps:             0              
+-avg pps:             0              
+-max pps:             0              
+Socket    UseTid    OwnTid   State   NonBlock  TrigEvent  Port
+0x 658   188:SCCD  188:SCCD  NOPEND     N     0x     65C   9100
+0x 484   189:SCCD  189:SCCD  NOPEND     N     0x     608   9101
+0x 49C   190:SCCD  190:SCCD  NOPEND     N     0x     668   9102
+0x 4D8   191:SCCD  191:SCCD  NOPEND     N     0x     5F4   9103
+0x 618   171:RPCM  171:RPCM  SELECT     N     0x     638      0
+0x 4D4   171:RPCM  171:RPCM  SELECT     N     0x     610   3002
+0x 62C   150:HTTP  150:HTTP  SELECT     N     0x     5F8   3080
+0x 6D4   298:TPCN  298:TPCN  SELECT     N     0x     6D0  60012
+0x 51C   221:SNPX  221:SNPX  SELECT     N     0x     6A0  18245
+0x 634   221:SNPX  221:SNPX  SELECT     N     0x     630  60008
+0x 6E8   XXX:____   33:TKEY  NOPEND     Y     0x     2B4  60004
+0x 63C   XXX:____  241:GIGE  NOPEND     N     0x     498      0
+0x 654   XXX:____  337:OPCU  NOPEND     N     0x     5F0   4840
+0x 4E0   337:OPCU  337:OPCU  NOPEND     Y     0x     698   4880
+0x 508   337:OPCU  337:OPCU  NOPEND     N     0x     4F8      0
+0x 4FC   186:HTTP  186:HTTP  SELECT     N     0x     640     80
+0x 664    75:TLNT   75:TLNT  NOPEND     Y     0x     694     23
+0x 620   184:      184:      SELECT     N     0x     5E8  60008
+0x 4BC    97:PRXY   97:PRXY  SELECT     Y     0x     648   8080
+0x 5B8    97:PRXY   97:PRXY  SELECT     Y     0x     644  50005
+0x 650    97:PRXY   97:PRXY  SELECT     Y     0x     6B0  60009
+0x 6B4   234:HTTP  234:HTTP  SELECT     N     0x     6B8   4080
+0x 674   177:      177:      NOPEND     N     0x     614     21
+0x 690   182:PMON  182:PMON  NOPEND     N     0x     66C      0
+0x 628   171:RPCM  171:RPCM  SELECT     N     0x     4C4      0
+0x 6EC   174:TCPM  174:TCPM  NOPEND     N     0x     6F0      0
+0x 67C   174:TCPM  174:TCPM  NOPEND     N     0x     5FC      0
+0x 61C   182:PMON  182:PMON  NOPEND     N     0x     6AC      0

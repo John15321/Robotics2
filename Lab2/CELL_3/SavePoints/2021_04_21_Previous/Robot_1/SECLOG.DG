@@ -1,0 +1,27 @@
+Security Log for F00000     at 21-APR-21 01:55:04 
+
+21-APR-21 01:24 SEC -005 FSAC RPC  allow connect 192.168.1.15
+21-APR-21 01:34 SEC -005 FSAC RPC  allow connect 192.168.1.15
+21-APR-21 01:34 SEC -005 FSAC RPC  allow connect 192.168.1.15
+21-APR-21 01:35 SEC -005 FSAC RPC  allow connect 192.168.1.15
+21-APR-21 01:37 SEC -005 FSAC RPC  allow connect 192.168.1.15
+21-APR-21 01:39 SEC -005 FSAC RPC  allow connect 192.168.1.15
+21-APR-21 01:41 SEC -005 FSAC RPC  allow connect 192.168.1.15
+21-APR-21 01:41 SEC -005 FSAC RPC  allow connect 192.168.1.15
+21-APR-21 01:45 SEC -005 FSAC RPC  allow connect 192.168.1.15
+21-APR-21 01:46 SEC -005 FSAC RPC  allow connect 192.168.1.15
+21-APR-21 01:46 SEC -005 FSAC RPC  allow connect 192.168.1.15
+21-APR-21 01:48 SEC -005 FSAC RPC  allow connect 192.168.1.15
+21-APR-21 01:49 SEC -005 FSAC RPC  allow connect 192.168.1.15
+21-APR-21 01:49 SEC -005 FSAC RPC  allow connect 192.168.1.15
+21-APR-21 01:50 SEC -005 FSAC RPC  allow connect 192.168.1.15
+21-APR-21 01:51 SEC -005 FSAC RPC  allow connect 192.168.1.15
+21-APR-21 01:52 SEC -005 FSAC RPC  allow connect 192.168.1.15
+
+
+MAIN Security Log Filter:
+21-APR-21 01:24:34  Task: MCPR logged error: SEC -005 occurred 18 times in 707.700500 seconds from 192.168.1.15
+
+
+COMM Security Log Filter:
+21-APR-21 01:24:34  Task: MCPR logged error: SEC -005 occurred 18 times in 707.700500 seconds from 192.168.1.15

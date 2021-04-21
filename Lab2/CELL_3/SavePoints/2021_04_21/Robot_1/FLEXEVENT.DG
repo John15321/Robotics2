@@ -1,0 +1,46 @@
+Func       Date      Time    Tick       NavID              Text
+POWR  72 21-APR-21 01:24:18   3A1 Power Cycle 
+POWR  72 21-APR-21 01:24:30   421 Power Cycle 
+KEY   72 21-APR-21 01:27:54  1283 /wizard/guided/steps Initial Setup
+KEY   72 21-APR-21 01:27:54  145C /wizard/guided/steps Initial Setup
+EXIT  72 21-APR-21 01:27:54  145C 153 1 
+HOME  72 21-APR-21 01:28:16  69C4 flexuif_home_c Hardkey 
+KEY   72 21-APR-21 01:28:16  6A3C /wizard/guided/steps Initial Setup
+NAV  150 21-APR-21 01:28:18  719E /nav/core/home/teach/edit 
+KEY   72 21-APR-21 01:28:18  719E /nav/core/home HOME
+KEY   72 21-APR-21 01:28:18  719E /nav/core/home HOME
+EXIT  72 21-APR-21 01:28:18  719E 64 1 
+HOME  72 21-APR-21 01:39:32  130C flexuif_home_c Hardkey 
+KEY   72 21-APR-21 01:39:32  136C /wizard/guided/steps Initial Setup
+NAV  150 21-APR-21 01:39:34  2166 /nav/core/home/teach/edit 
+KEY   72 21-APR-21 01:39:34  2166 /nav/core/home HOME
+KEY   72 21-APR-21 01:39:34  2166 /nav/core/home HOME
+EXIT  72 21-APR-21 01:39:34  2166 64 1 
+HOME  72 21-APR-21 01:40:40  1F58 flexuif_home_c Hardkey 
+KEY   72 21-APR-21 01:40:40  1FD0 /wizard/guided/steps Initial Setup
+KEY   72 21-APR-21 01:40:44  31B8 /wizard/guided/steps Initial Setup
+EXIT  72 21-APR-21 01:40:44  31B8 153 1 
+HOME  72 21-APR-21 01:45:16  FB6C flexuif_home_c Hardkey 
+KEY   72 21-APR-21 01:45:16  FB9C /wizard/guided/steps Initial Setup
+NAV  150 21-APR-21 01:45:16  FDDE /nav/core/home/teach/edit 
+KEY   72 21-APR-21 01:45:16  FDDE /nav/core/home HOME
+KEY   72 21-APR-21 01:45:16  FDDE /nav/core/home HOME
+EXIT  72 21-APR-21 01:45:16  FDDE 64 1 
+HOME  72 21-APR-21 01:46:52  CE24 flexuif_home_c Hardkey 
+KEY   72 21-APR-21 01:46:52  CE84 /wizard/guided/steps Initial Setup
+NAV  150 21-APR-21 01:46:54  D14A /nav/core/home/teach/edit 
+KEY   72 21-APR-21 01:46:54  D14A /nav/core/home HOME
+KEY   72 21-APR-21 01:46:54  D14A /nav/core/home HOME
+EXIT  72 21-APR-21 01:46:54  D14A 64 1 
+HOME  72 21-APR-21 01:46:58  D934 flexuif_home_c Hardkey 
+KEY   72 21-APR-21 01:46:58  D9AC /wizard/guided/steps Initial Setup
+NAV  150 21-APR-21 01:47:00  DD08 /nav/core/home/teach/edit 
+KEY   72 21-APR-21 01:47:00  DD08 /nav/core/home HOME
+KEY   72 21-APR-21 01:47:00  DD08 /nav/core/home HOME
+EXIT  72 21-APR-21 01:47:00  DD08 64 1 
+HOME  72 21-APR-21 01:48:40  A39C flexuif_home_c Hardkey 
+KEY   72 21-APR-21 01:48:40  A3E4 /wizard/guided/steps Initial Setup
+NAV  150 21-APR-21 01:48:42  A6C6 /nav/core/home/teach/edit 
+KEY   72 21-APR-21 01:48:42  A6C6 /nav/core/home HOME
+KEY   72 21-APR-21 01:48:42  A6C6 /nav/core/home HOME
+EXIT  72 21-APR-21 01:48:42  A6C6 64 1 

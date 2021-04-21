@@ -1,0 +1,137 @@
+<XMP>
+<MSGLIB date="27-FEB-18 10:36:24 " max_mem="204800" left_mem="144656" max_msg_size="10240" >
+  <MSG path_name="GCOND_P" prog_name="ZDTMSGTYPES" version="0" node_size="516" max_inst="5" in_use="0" rdy_to_send="0" available="5" unallocated="0" priority="1" >
+    <MSG_INSTANCE id="1" state="0" created="27-FEB-18 10:35:20 " requested="00-0-80 00:00:00 " rdy_to_send="00-0-80 00:00:00 " last_sent="00-0-80 00:00:00 " mem_size="0" />
+    <MSG_INSTANCE id="2" state="0" created="27-FEB-18 10:35:20 " requested="00-0-80 00:00:00 " rdy_to_send="00-0-80 00:00:00 " last_sent="00-0-80 00:00:00 " mem_size="0" />
+    <MSG_INSTANCE id="3" state="0" created="27-FEB-18 10:35:20 " requested="00-0-80 00:00:00 " rdy_to_send="00-0-80 00:00:00 " last_sent="00-0-80 00:00:00 " mem_size="0" />
+    <MSG_INSTANCE id="4" state="0" created="27-FEB-18 10:35:20 " requested="00-0-80 00:00:00 " rdy_to_send="00-0-80 00:00:00 " last_sent="00-0-80 00:00:00 " mem_size="0" />
+    <MSG_INSTANCE id="5" state="0" created="27-FEB-18 10:35:20 " requested="00-0-80 00:00:00 " rdy_to_send="00-0-80 00:00:00 " last_sent="00-0-80 00:00:00 " mem_size="0" />
+  </MSG>
+  <MSG path_name="GSRVOF_BIN_P" prog_name="ZDTMSGTYPES" version="0" node_size="4044" max_inst="5" in_use="0" rdy_to_send="0" available="5" unallocated="0" priority="1" >
+    <MSG_INSTANCE id="1" state="0" created="27-FEB-18 10:35:20 " requested="00-0-80 00:00:00 " rdy_to_send="00-0-80 00:00:00 " last_sent="00-0-80 00:00:00 " mem_size="0" />
+    <MSG_INSTANCE id="2" state="0" created="27-FEB-18 10:35:20 " requested="00-0-80 00:00:00 " rdy_to_send="00-0-80 00:00:00 " last_sent="00-0-80 00:00:00 " mem_size="0" />
+    <MSG_INSTANCE id="3" state="0" created="27-FEB-18 10:35:20 " requested="00-0-80 00:00:00 " rdy_to_send="00-0-80 00:00:00 " last_sent="00-0-80 00:00:00 " mem_size="0" />
+    <MSG_INSTANCE id="4" state="0" created="27-FEB-18 10:35:20 " requested="00-0-80 00:00:00 " rdy_to_send="00-0-80 00:00:00 " last_sent="00-0-80 00:00:00 " mem_size="0" />
+    <MSG_INSTANCE id="5" state="0" created="27-FEB-18 10:35:20 " requested="00-0-80 00:00:00 " rdy_to_send="00-0-80 00:00:00 " last_sent="00-0-80 00:00:00 " mem_size="0" />
+  </MSG>
+  <MSG path_name="GSRVOF_DTL_P" prog_name="ZDTMSGTYPES" version="0" node_size="360" max_inst="5" in_use="0" rdy_to_send="0" available="5" unallocated="0" priority="1" >
+    <MSG_INSTANCE id="1" state="0" created="27-FEB-18 10:35:20 " requested="00-0-80 00:00:00 " rdy_to_send="00-0-80 00:00:00 " last_sent="00-0-80 00:00:00 " mem_size="0" />
+    <MSG_INSTANCE id="2" state="0" created="27-FEB-18 10:35:20 " requested="00-0-80 00:00:00 " rdy_to_send="00-0-80 00:00:00 " last_sent="00-0-80 00:00:00 " mem_size="0" />
+    <MSG_INSTANCE id="3" state="0" created="27-FEB-18 10:35:20 " requested="00-0-80 00:00:00 " rdy_to_send="00-0-80 00:00:00 " last_sent="00-0-80 00:00:00 " mem_size="0" />
+    <MSG_INSTANCE id="4" state="0" created="27-FEB-18 10:35:20 " requested="00-0-80 00:00:00 " rdy_to_send="00-0-80 00:00:00 " last_sent="00-0-80 00:00:00 " mem_size="0" />
+    <MSG_INSTANCE id="5" state="0" created="27-FEB-18 10:35:20 " requested="00-0-80 00:00:00 " rdy_to_send="00-0-80 00:00:00 " last_sent="00-0-80 00:00:00 " mem_size="0" />
+  </MSG>
+  <MSG path_name="GJOB_DATA_P" prog_name="ZDTMSGTYPES" version="0" node_size="288" max_inst="5" in_use="0" rdy_to_send="0" available="5" unallocated="0" priority="1" >
+    <MSG_INSTANCE id="1" state="0" created="27-FEB-18 10:35:20 " requested="00-0-80 00:00:00 " rdy_to_send="00-0-80 00:00:00 " last_sent="00-0-80 00:00:00 " mem_size="0" />
+    <MSG_INSTANCE id="2" state="0" created="27-FEB-18 10:35:20 " requested="00-0-80 00:00:00 " rdy_to_send="00-0-80 00:00:00 " last_sent="00-0-80 00:00:00 " mem_size="0" />
+    <MSG_INSTANCE id="3" state="0" created="27-FEB-18 10:35:20 " requested="00-0-80 00:00:00 " rdy_to_send="00-0-80 00:00:00 " last_sent="00-0-80 00:00:00 " mem_size="0" />
+    <MSG_INSTANCE id="4" state="0" created="27-FEB-18 10:35:20 " requested="00-0-80 00:00:00 " rdy_to_send="00-0-80 00:00:00 " last_sent="00-0-80 00:00:00 " mem_size="0" />
+    <MSG_INSTANCE id="5" state="0" created="27-FEB-18 10:35:20 " requested="00-0-80 00:00:00 " rdy_to_send="00-0-80 00:00:00 " last_sent="00-0-80 00:00:00 " mem_size="0" />
+  </MSG>
+  <MSG path_name="GFLEX_DATA_P" prog_name="ZDTMSGTYPES" version="0" node_size="2620" max_inst="5" in_use="0" rdy_to_send="0" available="5" unallocated="0" priority="1" >
+    <MSG_INSTANCE id="1" state="0" created="27-FEB-18 10:35:20 " requested="00-0-80 00:00:00 " rdy_to_send="00-0-80 00:00:00 " last_sent="00-0-80 00:00:00 " mem_size="0" />
+    <MSG_INSTANCE id="2" state="0" created="27-FEB-18 10:35:20 " requested="00-0-80 00:00:00 " rdy_to_send="00-0-80 00:00:00 " last_sent="00-0-80 00:00:00 " mem_size="0" />
+    <MSG_INSTANCE id="3" state="0" created="27-FEB-18 10:35:20 " requested="00-0-80 00:00:00 " rdy_to_send="00-0-80 00:00:00 " last_sent="00-0-80 00:00:00 " mem_size="0" />
+    <MSG_INSTANCE id="4" state="0" created="27-FEB-18 10:35:20 " requested="00-0-80 00:00:00 " rdy_to_send="00-0-80 00:00:00 " last_sent="00-0-80 00:00:00 " mem_size="0" />
+    <MSG_INSTANCE id="5" state="0" created="27-FEB-18 10:35:20 " requested="00-0-80 00:00:00 " rdy_to_send="00-0-80 00:00:00 " last_sent="00-0-80 00:00:00 " mem_size="0" />
+  </MSG>
+  <MSG path_name="GFLEX_IO_P" prog_name="ZDTMSGTYPES" version="0" node_size="140" max_inst="5" in_use="0" rdy_to_send="0" available="5" unallocated="0" priority="1" >
+    <MSG_INSTANCE id="1" state="0" created="27-FEB-18 10:35:20 " requested="00-0-80 00:00:00 " rdy_to_send="00-0-80 00:00:00 " last_sent="00-0-80 00:00:00 " mem_size="0" />
+    <MSG_INSTANCE id="2" state="0" created="27-FEB-18 10:35:20 " requested="00-0-80 00:00:00 " rdy_to_send="00-0-80 00:00:00 " last_sent="00-0-80 00:00:00 " mem_size="0" />
+    <MSG_INSTANCE id="3" state="0" created="27-FEB-18 10:35:20 " requested="00-0-80 00:00:00 " rdy_to_send="00-0-80 00:00:00 " last_sent="00-0-80 00:00:00 " mem_size="0" />
+    <MSG_INSTANCE id="4" state="0" created="27-FEB-18 10:35:20 " requested="00-0-80 00:00:00 " rdy_to_send="00-0-80 00:00:00 " last_sent="00-0-80 00:00:00 " mem_size="0" />
+    <MSG_INSTANCE id="5" state="0" created="27-FEB-18 10:35:20 " requested="00-0-80 00:00:00 " rdy_to_send="00-0-80 00:00:00 " last_sent="00-0-80 00:00:00 " mem_size="0" />
+  </MSG>
+  <MSG path_name="GODOMETER_P" prog_name="ZDTMSGTYPES" version="0" node_size="84" max_inst="5" in_use="0" rdy_to_send="0" available="5" unallocated="0" priority="1" >
+    <MSG_INSTANCE id="1" state="0" created="27-FEB-18 10:35:20 " requested="00-0-80 00:00:00 " rdy_to_send="00-0-80 00:00:00 " last_sent="00-0-80 00:00:00 " mem_size="0" />
+    <MSG_INSTANCE id="2" state="0" created="27-FEB-18 10:35:20 " requested="00-0-80 00:00:00 " rdy_to_send="00-0-80 00:00:00 " last_sent="00-0-80 00:00:00 " mem_size="0" />
+    <MSG_INSTANCE id="3" state="0" created="27-FEB-18 10:35:20 " requested="00-0-80 00:00:00 " rdy_to_send="00-0-80 00:00:00 " last_sent="00-0-80 00:00:00 " mem_size="0" />
+    <MSG_INSTANCE id="4" state="0" created="27-FEB-18 10:35:20 " requested="00-0-80 00:00:00 " rdy_to_send="00-0-80 00:00:00 " last_sent="00-0-80 00:00:00 " mem_size="0" />
+    <MSG_INSTANCE id="5" state="0" created="27-FEB-18 10:35:20 " requested="00-0-80 00:00:00 " rdy_to_send="00-0-80 00:00:00 " last_sent="00-0-80 00:00:00 " mem_size="0" />
+  </MSG>
+  <MSG path_name="PROTECT_P" prog_name="ZDTMSGTYPES" version="0" node_size="152" max_inst="5" in_use="0" rdy_to_send="0" available="1" unallocated="4" priority="1" >
+    <MSG_INSTANCE id="1" state="0" created="27-FEB-18 10:35:20 " requested="00-0-80 00:00:00 " rdy_to_send="00-0-80 00:00:00 " last_sent="00-0-80 00:00:00 " mem_size="0" />
+  </MSG>
+  <MSG path_name="CINFO_P" prog_name="ZDTMSGTYPES" version="0" node_size="708" max_inst="5" in_use="0" rdy_to_send="0" available="1" unallocated="4" priority="0" >
+    <MSG_INSTANCE id="1" state="0" created="27-FEB-18 10:35:20 " requested="00-0-80 00:00:00 " rdy_to_send="00-0-80 00:00:00 " last_sent="00-0-80 00:00:00 " mem_size="0" />
+  </MSG>
+  <MSG path_name="GINFO_P" prog_name="ZDTMSGTYPES" version="0" node_size="1108" max_inst="8" in_use="0" rdy_to_send="0" available="1" unallocated="7" priority="0" >
+    <MSG_INSTANCE id="1" state="0" created="27-FEB-18 10:35:20 " requested="00-0-80 00:00:00 " rdy_to_send="00-0-80 00:00:00 " last_sent="00-0-80 00:00:00 " mem_size="0" />
+  </MSG>
+  <MSG path_name="CSTATUS_P" prog_name="ZDTMSGTYPES" version="0" node_size="148" max_inst="5" in_use="0" rdy_to_send="0" available="1" unallocated="4" priority="0" >
+    <MSG_INSTANCE id="1" state="0" created="27-FEB-18 10:35:20 " requested="00-0-80 00:00:00 " rdy_to_send="00-0-80 00:00:00 " last_sent="00-0-80 00:00:00 " mem_size="0" />
+  </MSG>
+  <MSG path_name="VARCHG_P" prog_name="ZDTMSGTYPES" version="0" node_size="1652" max_inst="10" in_use="0" rdy_to_send="0" available="1" unallocated="9" priority="0" >
+    <MSG_INSTANCE id="1" state="0" created="27-FEB-18 10:35:20 " requested="00-0-80 00:00:00 " rdy_to_send="00-0-80 00:00:00 " last_sent="00-0-80 00:00:00 " mem_size="0" />
+  </MSG>
+  <MSG path_name="ALARM_MSG_P" prog_name="ZDTMSGTYPES" version="0" node_size="408" max_inst="20" in_use="0" rdy_to_send="0" available="1" unallocated="19" priority="0" >
+    <MSG_INSTANCE id="1" state="0" created="27-FEB-18 10:35:20 " requested="00-0-80 00:00:00 " rdy_to_send="00-0-80 00:00:00 " last_sent="00-0-80 00:00:00 " mem_size="0" />
+  </MSG>
+  <MSG path_name="TPPRG_CHG_P" prog_name="ZDTMSGTYPES" version="0" node_size="744" max_inst="20" in_use="0" rdy_to_send="0" available="1" unallocated="19" priority="0" >
+    <MSG_INSTANCE id="1" state="0" created="27-FEB-18 10:35:20 " requested="00-0-80 00:00:00 " rdy_to_send="00-0-80 00:00:00 " last_sent="00-0-80 00:00:00 " mem_size="0" />
+  </MSG>
+  <MSG path_name="CMEMORY_P" prog_name="ZDTMSGTYPES" version="0" node_size="52" max_inst="5" in_use="0" rdy_to_send="0" available="1" unallocated="4" priority="0" >
+    <MSG_INSTANCE id="1" state="0" created="27-FEB-18 10:35:20 " requested="00-0-80 00:00:00 " rdy_to_send="00-0-80 00:00:00 " last_sent="00-0-80 00:00:00 " mem_size="0" />
+  </MSG>
+  <MSG path_name="RTC_P" prog_name="ZDTMSGTYPES" version="0" node_size="32" max_inst="5" in_use="0" rdy_to_send="0" available="1" unallocated="4" priority="0" >
+    <MSG_INSTANCE id="1" state="0" created="27-FEB-18 10:35:20 " requested="00-0-80 00:00:00 " rdy_to_send="00-0-80 00:00:00 " last_sent="00-0-80 00:00:00 " mem_size="0" />
+  </MSG>
+  <MSG path_name="MBE_P" prog_name="ZDTMSGTYPES" version="0" node_size="56" max_inst="5" in_use="0" rdy_to_send="0" available="1" unallocated="4" priority="0" >
+    <MSG_INSTANCE id="1" state="0" created="27-FEB-18 10:35:20 " requested="00-0-80 00:00:00 " rdy_to_send="00-0-80 00:00:00 " last_sent="00-0-80 00:00:00 " mem_size="0" />
+  </MSG>
+  <MSG path_name="SVGUN_DIAG_P" prog_name="ZDTMSGTYPES" version="0" node_size="40" max_inst="5" in_use="0" rdy_to_send="0" available="5" unallocated="0" priority="0" >
+    <MSG_INSTANCE id="1" state="0" created="27-FEB-18 10:35:20 " requested="00-0-80 00:00:00 " rdy_to_send="00-0-80 00:00:00 " last_sent="00-0-80 00:00:00 " mem_size="0" />
+    <MSG_INSTANCE id="2" state="0" created="27-FEB-18 10:35:20 " requested="00-0-80 00:00:00 " rdy_to_send="00-0-80 00:00:00 " last_sent="00-0-80 00:00:00 " mem_size="0" />
+    <MSG_INSTANCE id="3" state="0" created="27-FEB-18 10:35:20 " requested="00-0-80 00:00:00 " rdy_to_send="00-0-80 00:00:00 " last_sent="00-0-80 00:00:00 " mem_size="0" />
+    <MSG_INSTANCE id="4" state="0" created="27-FEB-18 10:35:20 " requested="00-0-80 00:00:00 " rdy_to_send="00-0-80 00:00:00 " last_sent="00-0-80 00:00:00 " mem_size="0" />
+    <MSG_INSTANCE id="5" state="0" created="27-FEB-18 10:35:20 " requested="00-0-80 00:00:00 " rdy_to_send="00-0-80 00:00:00 " last_sent="00-0-80 00:00:00 " mem_size="0" />
+  </MSG>
+  <MSG path_name="SVGUN_CAP_P" prog_name="ZDTMSGTYPES" version="0" node_size="116" max_inst="5" in_use="0" rdy_to_send="0" available="5" unallocated="0" priority="0" >
+    <MSG_INSTANCE id="1" state="0" created="27-FEB-18 10:35:20 " requested="00-0-80 00:00:00 " rdy_to_send="00-0-80 00:00:00 " last_sent="00-0-80 00:00:00 " mem_size="0" />
+    <MSG_INSTANCE id="2" state="0" created="27-FEB-18 10:35:20 " requested="00-0-80 00:00:00 " rdy_to_send="00-0-80 00:00:00 " last_sent="00-0-80 00:00:00 " mem_size="0" />
+    <MSG_INSTANCE id="3" state="0" created="27-FEB-18 10:35:20 " requested="00-0-80 00:00:00 " rdy_to_send="00-0-80 00:00:00 " last_sent="00-0-80 00:00:00 " mem_size="0" />
+    <MSG_INSTANCE id="4" state="0" created="27-FEB-18 10:35:20 " requested="00-0-80 00:00:00 " rdy_to_send="00-0-80 00:00:00 " last_sent="00-0-80 00:00:00 " mem_size="0" />
+    <MSG_INSTANCE id="5" state="0" created="27-FEB-18 10:35:20 " requested="00-0-80 00:00:00 " rdy_to_send="00-0-80 00:00:00 " last_sent="00-0-80 00:00:00 " mem_size="0" />
+  </MSG>
+  <MSG path_name="PLOG_STAT_P" prog_name="ZDTMSGTYPES" version="0" node_size="200" max_inst="50" in_use="0" rdy_to_send="0" available="1" unallocated="49" priority="0" >
+    <MSG_INSTANCE id="1" state="0" created="27-FEB-18 10:35:20 " requested="00-0-80 00:00:00 " rdy_to_send="00-0-80 00:00:00 " last_sent="00-0-80 00:00:00 " mem_size="0" />
+  </MSG>
+  <MSG path_name="APP_DATA_P" prog_name="ZDTMSGTYPES" version="0" node_size="80" max_inst="5" in_use="0" rdy_to_send="0" available="5" unallocated="0" priority="0" >
+    <MSG_INSTANCE id="1" state="0" created="27-FEB-18 10:35:20 " requested="00-0-80 00:00:00 " rdy_to_send="00-0-80 00:00:00 " last_sent="00-0-80 00:00:00 " mem_size="0" />
+    <MSG_INSTANCE id="2" state="0" created="27-FEB-18 10:35:20 " requested="00-0-80 00:00:00 " rdy_to_send="00-0-80 00:00:00 " last_sent="00-0-80 00:00:00 " mem_size="0" />
+    <MSG_INSTANCE id="3" state="0" created="27-FEB-18 10:35:20 " requested="00-0-80 00:00:00 " rdy_to_send="00-0-80 00:00:00 " last_sent="00-0-80 00:00:00 " mem_size="0" />
+    <MSG_INSTANCE id="4" state="0" created="27-FEB-18 10:35:20 " requested="00-0-80 00:00:00 " rdy_to_send="00-0-80 00:00:00 " last_sent="00-0-80 00:00:00 " mem_size="0" />
+    <MSG_INSTANCE id="5" state="0" created="27-FEB-18 10:35:20 " requested="00-0-80 00:00:00 " rdy_to_send="00-0-80 00:00:00 " last_sent="00-0-80 00:00:00 " mem_size="0" />
+  </MSG>
+  <MSG path_name="GMAINT_ITM_P" prog_name="ZDTMSGTYPES" version="0" node_size="68" max_inst="50" in_use="0" rdy_to_send="0" available="1" unallocated="49" priority="0" >
+    <MSG_INSTANCE id="1" state="0" created="27-FEB-18 10:35:20 " requested="00-0-80 00:00:00 " rdy_to_send="00-0-80 00:00:00 " last_sent="00-0-80 00:00:00 " mem_size="0" />
+  </MSG>
+  <MSG path_name="GMAINT_EVT_P" prog_name="ZDTMSGTYPES" version="0" node_size="56" max_inst="50" in_use="0" rdy_to_send="0" available="1" unallocated="49" priority="0" >
+    <MSG_INSTANCE id="1" state="0" created="27-FEB-18 10:35:20 " requested="00-0-80 00:00:00 " rdy_to_send="00-0-80 00:00:00 " last_sent="00-0-80 00:00:00 " mem_size="0" />
+  </MSG>
+  <MSG path_name="GMNT_HEAD_P" prog_name="ZDTMSGTYPES" version="0" node_size="12" max_inst="5" in_use="0" rdy_to_send="0" available="1" unallocated="4" priority="0" >
+    <MSG_INSTANCE id="1" state="0" created="27-FEB-18 10:35:20 " requested="00-0-80 00:00:00 " rdy_to_send="00-0-80 00:00:00 " last_sent="00-0-80 00:00:00 " mem_size="0" />
+  </MSG>
+  <MSG path_name="VIS_RUNDAT_P" prog_name="ZDTMSGTYPES" version="0" node_size="240" max_inst="10" in_use="0" rdy_to_send="0" available="1" unallocated="9" priority="1" >
+    <MSG_INSTANCE id="1" state="0" created="27-FEB-18 10:35:20 " requested="00-0-80 00:00:00 " rdy_to_send="00-0-80 00:00:00 " last_sent="00-0-80 00:00:00 " mem_size="0" />
+  </MSG>
+  <MSG path_name="VIS_RUNRES_P" prog_name="ZDTMSGTYPES" version="0" node_size="980" max_inst="100" in_use="0" rdy_to_send="0" available="1" unallocated="99" priority="1" >
+    <MSG_INSTANCE id="1" state="0" created="27-FEB-18 10:35:20 " requested="00-0-80 00:00:00 " rdy_to_send="00-0-80 00:00:00 " last_sent="00-0-80 00:00:00 " mem_size="0" />
+  </MSG>
+  <MSG path_name="IRC_GNRC_P" prog_name="ZDTMSGTYPES" version="0" node_size="412" max_inst="50" in_use="0" rdy_to_send="0" available="1" unallocated="49" priority="0" >
+    <MSG_INSTANCE id="1" state="0" created="27-FEB-18 10:35:20 " requested="00-0-80 00:00:00 " rdy_to_send="00-0-80 00:00:00 " last_sent="00-0-80 00:00:00 " mem_size="0" />
+  </MSG>
+  <MSG path_name="GMAINTITM2_P" prog_name="ZDTMSGTYPES" version="0" node_size="20" max_inst="50" in_use="0" rdy_to_send="0" available="1" unallocated="49" priority="0" >
+    <MSG_INSTANCE id="1" state="0" created="27-FEB-18 10:35:20 " requested="00-0-80 00:00:00 " rdy_to_send="00-0-80 00:00:00 " last_sent="00-0-80 00:00:00 " mem_size="0" />
+  </MSG>
+  <MSG path_name="ITL_GRS_AX_P" prog_name="ZDTMSGTYPES" version="0" node_size="16" max_inst="50" in_use="0" rdy_to_send="0" available="1" unallocated="49" priority="0" >
+    <MSG_INSTANCE id="1" state="0" created="27-FEB-18 10:35:20 " requested="00-0-80 00:00:00 " rdy_to_send="00-0-80 00:00:00 " last_sent="00-0-80 00:00:00 " mem_size="0" />
+  </MSG>
+  <MSG path_name="GMAINT_CFG_P" prog_name="ZDTMSGTYPES" version="0" node_size="76" max_inst="50" in_use="0" rdy_to_send="0" available="1" unallocated="49" priority="0" >
+    <MSG_INSTANCE id="1" state="0" created="27-FEB-18 10:35:20 " requested="00-0-80 00:00:00 " rdy_to_send="00-0-80 00:00:00 " last_sent="00-0-80 00:00:00 " mem_size="0" />
+  </MSG>
+  <MSG path_name="AINFO_P" prog_name="ZDTMSGTYPES" version="0" node_size="640" max_inst="5" in_use="0" rdy_to_send="0" available="1" unallocated="4" priority="0" >
+    <MSG_INSTANCE id="1" state="0" created="27-FEB-18 10:35:20 " requested="00-0-80 00:00:00 " rdy_to_send="00-0-80 00:00:00 " last_sent="00-0-80 00:00:00 " mem_size="0" />
+  </MSG>
+</MSGLIB>
+</XMP>

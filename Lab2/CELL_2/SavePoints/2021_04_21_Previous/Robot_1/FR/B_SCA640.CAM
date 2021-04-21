@@ -1,0 +1,17 @@
+* CamFile_Version 1
+S FileBaseName Basler_GigE_Version_2_0.xml
+S DeviceVendorName Basler
+S DeviceModelName scA640-70gm
+S DeviceVersion 103124-05
+* Feature             Address    Mask       Value  Min Max 
+U SensorWidth         0xf1f00000 0x0000ffff 659    0   0
+U SensorHeight        0xf1f00000 0xffff0000 494    0   0
+F PhysicalPixelWidth  0x00000000 0x00000000 7.4    0   0
+F PhysicalPixelHeight 0x00000000 0x00000000 7.4    0   0
+U UserSetSelector     0xf0f00620 0xf0000000   0    0   15
+U UserSetLoad         0xf0f00624 0xf0000000   0    0   15
+F ExposureTimeBase    0xf2f0259c 0xffffffff  20    0   0
+U ExposureTimeRaw     0xf0f0081c 0x00000fff 200    5   4095
+U AcquisitionMode     0x00000a00 0xffffffff   1    0   0
+U AcquisitionStart    0xf0f0061c 0x80000000   1    0   0
+U AcquisitionStop     0xf0f0061c 0x80000000   0    0   0

@@ -1,0 +1,17 @@
+* CamFile_Version 1
+S FileBaseName GenieM640_1_30.xml
+S DeviceVendorName DALSA
+S DeviceModelName Genie M640-S3
+S DeviceVersion 1.30.169
+* Feature             Address    Mask       Value  Min Max 
+U SensorWidth         0x1000001c 0xffffffff 640    0   0
+U SensorHeight        0x10000020 0xffffffff 480    0   0
+F PhysicalPixelWidth  0x00000000 0x00000000 7.4    0   0
+F PhysicalPixelHeight 0x00000000 0x00000000 7.4    0   0
+U UserSetSelector     0x10000064 0xffffffff   0    0   1
+U UserSetLoad         0x10000068 0xffffffff   0    0   1
+F ExposureTimeBase    0x00000000 0x00000000   1    0   0
+U ExposureTimeRaw     0x30000024 0xffffffff 4000 100 4000000
+U AcquisitionMode     0x10000040 0xffffffff   1    0   2
+U AcquisitionStart    0x100000a8 0xffffffff   1    0   0
+U AcquisitionStop     0x00000a00 0xffffffff   1    0   0

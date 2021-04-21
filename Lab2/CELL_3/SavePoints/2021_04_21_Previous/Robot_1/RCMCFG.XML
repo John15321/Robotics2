@@ -1,0 +1,75 @@
+<?xml version="1.0" ?>
+<RCMCFG>
+
+  <!-- Please edit this info as per your plant -->
+  <PLANT name ="FANUC">
+    <LINE name ="PDE">
+      <CLUSTER name ="System" ipgroup="172.22.194" ipset="0-254"/>
+    </LINE>
+  </PLANT>
+  
+  <ETHPORT>Port1</ETHPORT>
+  
+  <HTTP disable="0">
+    <URL method="POST">http://172.22.194.18:6063/zdtdata/</URL>
+    <AUTH user="test" pwd="password" />
+  </HTTP>
+
+  <!-- Power Message, one of its availability invokes periodic status message -->
+  <ERTYPE name ="SYST">
+    <ERROR code ="26">
+      <FILE name="MD:VERSION.DG"/>
+      <FILE name="MD:MEMORY.DG"/>
+      <FILE name="MD:IOCONFIG.DG"/>
+      <FILE name="MD:ETHERNET.DG"/>
+      <FILE name="MD:PORT.DG"/>
+      <FILE name="MD:MACRO.DG"/>
+    </ERROR>
+  </ERTYPE>
+  
+  <!-- Severity based configuration -->
+  <SEVERITY name="PAUSE" send="TRUE" />
+  <SEVERITY name="STOP"  send="TRUE" />
+  <SEVERITY name="ABORT" send="TRUE" />
+  <SEVERITY name="SERVO" send="TRUE" />
+  
+  <!-- Messaging library settings -->
+  <!-- *WARNING* Make sure maxinst < 128!! It gets converted to signed byte then ushort. -->
+  <MSGLIB maxmem="204800" msglim="10240">
+    <MSG varname="GCOND_P"       initinst="5" maxinst="5" prior="1" />
+    <MSG varname="GSRVOF_BIN_P"  initinst="5" maxinst="5" prior="1" />
+    <MSG varname="GSRVOF_DTL_P"  initinst="5" maxinst="5" prior="1" />
+    <MSG varname="GJOB_DATA_P"   initinst="5" maxinst="5" prior="1" />
+    <MSG varname="GFLEX_DATA_P"  initinst="5" maxinst="5" prior="1" />
+    <MSG varname="GFLEX_IO_P"    initinst="5" maxinst="5" prior="1" />
+    <MSG varname="GODOMETER_P"   initinst="5" maxinst="5" prior="1" />
+    <MSG varname="CINFO_P"       initinst="1" maxinst="5" prior="0" />
+    <MSG varname="GINFO_P"       initinst="1" maxinst="8" prior="0" />
+    <MSG varname="CSTATUS_P"     initinst="1" maxinst="5" prior="0" />
+    <MSG varname="VARCHG_P"      initinst="1" maxinst="10" prior="0" />
+    <MSG varname="ALARM_MSG_P"   initinst="1" maxinst="20" prior="0" />
+    <MSG varname="TPPRG_CHG_P"   initinst="1" maxinst="20" prior="0" />
+    <MSG varname="CMEMORY_P"     initinst="1" maxinst="5" prior="0" />
+    <MSG varname="RTC_P"         initinst="1" maxinst="5" prior="0" />
+    <MSG varname="MBE_P"         initinst="1" maxinst="5" prior="0" />
+    <MSG varname="SVGUN_DIAG_P"  initinst="5" maxinst="5" prior="0" />
+    <MSG varname="SVGUN_CAP_P"   initinst="5" maxinst="5" prior="0" />
+    <MSG varname="PLOG_STAT_P"   initinst="1" maxinst="50" prior="0" />
+    <MSG varname="APP_DATA_P"    initinst="5" maxinst="5" prior="0" />
+    <MSG varname="GMAINT_ITM_P"  initinst="1" maxinst="50" prior="0" />
+    <MSG varname="GMAINT_EVT_P"  initinst="1" maxinst="50" prior="0" />
+    <MSG varname="GMNT_HEAD_P"   initinst="1" maxinst="5" prior="0" />
+    <MSG varname="VIS_RUNDAT_P"  initinst="1" maxinst="10" prior="1" />
+    <MSG varname="VIS_RUNRES_P"  initinst="1" maxinst="100" prior="1" />
+    <MSG varname="IRC_GNRC_P"    initinst="1" maxinst="50" prior="0" />
+    <MSG varname="BATT_LOW2_T"   initinst="1" maxinst="5" prior="0" />
+    <MSG varname="SG_PRSTST_P"   initinst="1" maxinst="4" prior="1" />
+    <MSG varname="GUN_INF_P"     initinst="1" maxinst="4" prior="1" />
+    <MSG varname="GSVCNT_T"      initinst="5" maxinst="5" prior="1" />
+    <MSG varname="GJOBRLIFE_T"   initinst="5" maxinst="5" prior="1" />
+    <MSG varname="GMAINTITM2_P"  initinst="1" maxinst="50" prior="0" />
+    <MSG varname="ITL_GRS_AX_P"  initinst="1" maxinst="50" prior="0" />
+    <MSG varname="GMAINT_CFG_P"  initinst="1" maxinst="50" prior="0" />
+    <MSG varname="AINFO_P"       initinst="1" maxinst="5" prior="0" />
+  </MSGLIB>
+</RCMCFG>

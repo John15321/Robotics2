@@ -1,0 +1,17 @@
+Func       Date      Time    Tick       NavID              Text
+POWR  72 20-APR-21 23:42:00   3A1 Power Cycle 
+POWR  72 20-APR-21 23:42:12   423 Power Cycle 
+KEY   72 20-APR-21 23:43:00  B7E4 /wizard/guided/steps Initial Setup
+KEY   72 20-APR-21 23:43:00  B96E /wizard/guided/steps Initial Setup
+EXIT  72 20-APR-21 23:43:00  B96E 153 1 
+HOME  72 21-APR-21 00:25:50  A5F0 flexuif_home_c Hardkey 
+KEY   72 21-APR-21 00:25:50  A668 /wizard/guided/steps Initial Setup
+KEY   72 21-APR-21 00:25:56  BBDD /nav/core/wizardkeys/f2 CANCEL
+KEY   72 21-APR-21 00:26:02  CF60 /nav/core/home HOME
+EXIT  72 21-APR-21 00:26:02  CF60 153 1 
+HOME  72 21-APR-21 00:31:42  CADE flexuif_home_c Hardkey 
+KEY   72 21-APR-21 00:31:42  CB3E /wizard/guided/steps Initial Setup
+NAV  150 21-APR-21 00:31:48  E15E /nav/core/home/teach/edit 
+KEY   72 21-APR-21 00:31:48  E15E /nav/core/home HOME
+KEY   72 21-APR-21 00:31:48  E15E /nav/core/home HOME
+EXIT  72 21-APR-21 00:31:48  E15E 64 1 

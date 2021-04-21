@@ -1,0 +1,14 @@
+GigE log
+------------------------------
+20-APR-21 23:42  : Starting GigE
+20-APR-21 23:42  : Adding Defn (FR:\B_SCA640.CAM), 0
+20-APR-21 23:42  : Adding Defn (FR:\D_M640.CAM), 0
+20-APR-21 23:42  : Adding Defn (FR:\D_M1400.CAM), 0
+20-APR-21 23:42  : Adding Defn (FR:\B_ACA640.CAM), 0
+20-APR-21 23:42  : Adding Defn (FR:\B_ACA1300.CAM), 0
+20-APR-21 23:42  : Adding Defn (FR:\B_SCA640_V3.CAM), 0
+20-APR-21 23:42  : Adding Defn (FR:\B_ACA1300_75GM.CAM), 0
+20-APR-21 23:42  : Adding Defn (FR:\B_ACA1920_48GM.CAM), 0
+20-APR-21 23:42  : Adding Defn (FR:\B_ACA1300_75GC.CAM), 0
+20-APR-21 23:42  : Adding Defn (FR:\B_ACA1920_48GC.CAM), 0
+20-APR-21 23:42  : RPtr = 670EBA04, GVCP PCB ptr = 670ED3C4, GIGE_ROOT=6A78420

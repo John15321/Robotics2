@@ -1,0 +1,7 @@
+tb_cart 1           -- cartesian 1. cycle priority 2. path priority
+tb_jnt 1            -- joint 1. cycle priority 2. path priority
+angle 0             -- mount angle
+payload 7           -- max payload
+j1_range 1          -- J1 range setting 1.-170 - 170 2.-180 - 180
+battery 1           -- 1: Built-in batteries 2: External batteries
+ENDOFL              -- end of the file
